@@ -1,0 +1,1 @@
+/Library/WebServer/Documents/kiLaravelCMS/app/views/posts/edit.blade.php

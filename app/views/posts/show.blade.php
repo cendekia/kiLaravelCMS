@@ -1,0 +1,1 @@
+/Library/WebServer/Documents/kiLaravelCMS/app/views/posts/show.blade.php
